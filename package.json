@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js",
+    "devStart": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/killerclaws12/Ghosty-/issues"
   },
-  "homepage": "https://github.com/killerclaws12/Ghosty-#readme"
+  "homepage": "https://github.com/killerclaws12/Ghosty-#readme",
+  "dependencies": {
+    "discord.js": "^14.0.3",
+    "nodemon": "^2.0.19"
+  }
 }
