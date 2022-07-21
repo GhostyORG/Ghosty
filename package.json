@@ -1,0 +1,19 @@
+{
+  "name": "ghostylists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killerclaws12/Ghosty-.git"
+  },
+  "author": "claws",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killerclaws12/Ghosty-/issues"
+  },
+  "homepage": "https://github.com/killerclaws12/Ghosty-#readme"
+}

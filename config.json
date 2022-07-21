@@ -1,0 +1,105 @@
+{
+    "discord_client": {
+        "id": "",
+        "token": "",
+        secret: "",
+        prefix: ">",
+    },
+    "web": {
+        "domain_wth_protocol": "",
+        "port": 5000,
+        "ratelimit": 100,
+        "recaptcha_v2": {
+            "site_key": "",
+            "secret_key": ""
+        }
+    },
+    "mongo_url": "",
+    "server": {
+        "id": "",
+        "invite": "",
+        "like_log": "",
+        "botOwners": "",
+        "mod_log_id": "",
+        "website_logs": "",
+        "admin_user_ids": "",
+        "role_ids": {
+            "bot": "",
+            "verified": "",
+            "unverified": "",
+            "bot_verifier": "",
+            "bot_developer": "",
+            "cert_user": "",
+            "cert_bot": ""
+        },
+        "botreviewer": [
+      "user-id-1",
+      "user-id-2"
+    ]
+  },
+  "bot_options": {
+    "bot_tags": [
+      "Music",
+      "Moderation",
+      "Fun",
+      "Economy",
+      "Anime",
+      "Game",
+      "Meme",
+      "Social",
+      "Leveling",
+      "Roleplay",
+      "Role Managment",
+      "Logging",
+      "Web Dashboard",
+      "Utility",
+      "Stream",
+      "Games",
+      "Youtube",
+      "Twitch",
+      "Reddit"
+    ],
+    "bot_libraries": [
+      "discljord",
+      "aegis.cpp",
+      "D++",
+      "Sleepy Discord",
+      "discordcr",
+      "Discord.Net",
+      "DSharpPlus",
+      "dscord",
+      "coxir",
+      "Nostrum",
+      "DiscordGo",
+      "DisGord",
+      "catnip",
+      "Discord4J",
+      "Javacord",
+      "JDA",
+      "discord.js",
+      "Eris",
+      "Discord.jl",
+      "Discordia",
+      "Dimscord",
+      "discordnim",
+      "DiscordPHP",
+      "RestCord",
+      "discord.py",
+      "disco",
+      "discordrb",
+      "discord-rs",
+      "Serenity",
+      "Twilight",
+      "AckCord",
+      "Sword",
+      "Detritus",
+      "discordeno",
+      "Harmony"
+    ],
+    "max_bot_tags": 6,
+    "max_owners_count": 3,
+    "max_summary_length": 140,
+    "min_description_length": 300,
+    "max_description_length": 10000
+    }
+}
