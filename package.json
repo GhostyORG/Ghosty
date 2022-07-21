@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GhostyORG/Ghosty-.git"
+    "url": "git+https://github.com/GhostyORG/Ghosty.git"
   },
   "author": "claws",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GhostyORG/Ghosty-/issues"
+    "url": "https://github.com/GhostyORG/Ghosty/issues"
   },
-  "homepage": "https://github.com/GhostyORG/Ghosty-#readme",
+  "homepage": "https://github.com/GhostyORG/Ghosty#readme",
   "dependencies": {
     "discord.js": "^14.0.3",
     "nodemon": "^2.0.19"
