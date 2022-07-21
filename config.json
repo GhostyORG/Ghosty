@@ -2,8 +2,8 @@
     "discord_client": {
         "id": "",
         "token": "",
-        secret: "",
-        prefix: ">",
+        "secret": "",
+        "prefix": ">",
     },
     "web": {
         "domain_wth_protocol": "",
