@@ -1,0 +1,7 @@
+# Git Ignore file for the ghosty project.
+# Created By: Mushfiqur Rahman Abir
+# Created On: 7/22/2022
+
+# Node Modules installed by npm i command
+node_modules/**/*
+package-lock.json
