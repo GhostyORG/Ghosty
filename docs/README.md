@@ -13,6 +13,11 @@ An open source project to list all the awesome bot of discord.
 # Done
 - [] Finished API
 
+# Socials
+- Discord: https://discord.gg/fabzKhZXmC
+- Twitter: Coming Soon
+- Email: Coming soon
+
 # Contributors
 
 - @killerclaws12
