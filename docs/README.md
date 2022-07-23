@@ -6,8 +6,10 @@ An open source project to list all the awesome bot of discord.
 - [] Inside of the files, it will be directed to other files that i have not yet added to the repo. I will add the files once they are not bugged up and are completely working.
 
 # TO-DOs
-- [] Make API for the list
-- [] Work on front end and get the main page done
+- [] Hire more devs
+- [] Finish API
+- [] Get started on the ejs of the site 
+- [] Get site up and running for users to use
 
 # Contributors
 
