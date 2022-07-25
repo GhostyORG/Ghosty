@@ -1,9 +1,9 @@
 # Ghosty Lists
 
-An open source project to list all the awesome bot of discord and servers.w
+An open source project to list all the awesome bot of discord and servers.
 
 # Quick Mention
-- [] Please do not claim this as yours when you are forking this repo. We will take action aginst your list if you claim it as yours <3.
+- [] This is the dev branch, updates will be pushed here before they are pushed to the main branch to insure there are no bugs within the code. Dev branch is for testing the code. <3.
 
 # TO-DOs
 - [] Hire more devs
