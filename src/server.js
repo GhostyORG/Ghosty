@@ -85,8 +85,8 @@ module.exports = async (client) => {
     app.use(passport.session());
 
 
-    app.engine("ghostylists.xyz", ejs.renderFile);
-    app.set("view engine", "ghostylists.xyz");
+    app.engine("ghosty-1.killerclaws12.repl.co", ejs.renderFile);
+    app.set("view engine", "ghosty-1.killerclaws12.repl.co");
 
     app.use(bodyParser.json());
     app.use(bodyParser.urlencoded({
@@ -127,12 +127,12 @@ module.exports = async (client) => {
                     dynamic: true
                 })).setThumbnail(a.avatarURL({
                     dynamic: true
-                })).setColor("RED").setDescription(`[**${a.username}**#${a.discriminator}](https://ghostylists.xyz/user/${a.id}), **login** to the lists.`).addField("Username", a.username).addField("User ID", a.id).addField("User Discriminator", a.discriminator))
+                })).setColor("RED").setDescription(`[**${a.username}**#${a.discriminator}](https://ghosty-1.killerclaws12.repl.co/user/${a.id}), **login** to the lists.`).addField("Username", a.username).addField("User ID", a.id).addField("User Discriminator", a.discriminator))
             })
             req.session.destroy(() => {
                 res.json({
                     login: false,
-                    message: "You have been blocked from vCodes.",
+                    message: "You have been blocked from Ghosty Lists.",
                     logout: true
                 })
                 req.logout();
@@ -157,7 +157,7 @@ module.exports = async (client) => {
                     dynamic: true
                 })).setThumbnail(a.avatarURL({
                     dynamic: true
-                })).setColor("GREEN").setDescription(`[**${a.username}**#${a.discriminator}](https://vcodes.xyz/user/${a.id}) isimli kullanıcı **siteye** giriş yaptı.`).addField("Username", a.username).addField("User ID", a.id).addField("User Discriminator", a.discriminator))
+                })).setColor("GREEN").setDescription(`[**${a.username}**#${a.discriminator}](https://ghosty-1.killerclaws12.repl.co/user/${a.id}) isimli kullanıcı **siteye** giriş yaptı.`).addField("Username", a.username).addField("User ID", a.id).addField("User Discriminator", a.discriminator))
 
             })
         }
