@@ -17,6 +17,9 @@ An open source project to list all the awesome bot of discord and servers.
 - [x] Make API for the list
 - [x] Work on front end and get the main page done
 - [x] Hire more devs
+- [ ] Add a admin dashboard
+- [ ] Add more pages such as a tos page, add bot page etc
+- [ ] Get a domain
 - [ ] Fix OAuth when trying to login to the site
 - [ ] Fix redirect login when you try to login to the site
 - [ ] Get site up and running for users to use
