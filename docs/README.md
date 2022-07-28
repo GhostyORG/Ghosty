@@ -12,11 +12,9 @@ An open source project to list all the awesome bot of discord and servers.
 - [ ] Fix OAuth when trying to login to the site
 - [ ] Fix redirect login when you try to login to the site
 - [ ] Get site up and running for users to use
-
-# Done
-- [ ] Finished API
-- [ ] Get started on the ejs of the site 
-- [ ] Got site up and running for testing purposes
+- [x] Finished API
+- [x] Get started on the ejs of the site 
+- [x] Got site up and running for testing purposes
 
 # Socials
 
